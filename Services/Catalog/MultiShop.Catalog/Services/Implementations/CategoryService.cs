@@ -1,9 +1,9 @@
 ﻿using AutoMapper;
 using MongoDB.Driver;
+using MultiShop.Catalog.Dtos.ReqDtos.CategoryReqDtos;
+using MultiShop.Catalog.Dtos.ResDtos.CategoryResDtos;
 using MultiShop.Catalog.Entities;
 using MultiShop.Catalog.ServiceResponse;
-using MultiShop.Catalog.Services.Dtos.ReqDtos.CategoryReqDtos;
-using MultiShop.Catalog.Services.Dtos.ResDtos.CategoryResDtos;
 using MultiShop.Catalog.Services.Interfaces;
 using MultiShop.Catalog.Settings;
 

@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MultiShop.Catalog.Services.Dtos.ReqDtos.ProductDetailReqDtos;
+using MultiShop.Catalog.Dtos.ReqDtos.ProductDetailReqDtos;
 using MultiShop.Catalog.Services.Interfaces;
 
 namespace MultiShop.Catalog.Controllers

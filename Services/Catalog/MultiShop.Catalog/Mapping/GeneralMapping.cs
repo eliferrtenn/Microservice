@@ -1,13 +1,13 @@
 ﻿using AutoMapper;
+using MultiShop.Catalog.Dtos.ReqDtos.CategoryReqDtos;
+using MultiShop.Catalog.Dtos.ReqDtos.ProductDetailReqDtos;
+using MultiShop.Catalog.Dtos.ReqDtos.ProductImageReqDtos;
+using MultiShop.Catalog.Dtos.ReqDtos.ProductReqDtos;
+using MultiShop.Catalog.Dtos.ResDtos.CategoryResDtos;
+using MultiShop.Catalog.Dtos.ResDtos.ProductDetailResDtos;
+using MultiShop.Catalog.Dtos.ResDtos.ProductImageResDtos;
+using MultiShop.Catalog.Dtos.ResDtos.ProductResDtos;
 using MultiShop.Catalog.Entities;
-using MultiShop.Catalog.Services.Dtos.ReqDtos.CategoryReqDtos;
-using MultiShop.Catalog.Services.Dtos.ReqDtos.ProductDetailReqDtos;
-using MultiShop.Catalog.Services.Dtos.ReqDtos.ProductImageReqDtos;
-using MultiShop.Catalog.Services.Dtos.ReqDtos.ProductReqDtos;
-using MultiShop.Catalog.Services.Dtos.ResDtos.CategoryResDtos;
-using MultiShop.Catalog.Services.Dtos.ResDtos.ProductDetailResDtos;
-using MultiShop.Catalog.Services.Dtos.ResDtos.ProductImageResDtos;
-using MultiShop.Catalog.Services.Dtos.ResDtos.ProductResDtos;
 
 namespace MultiShop.Catalog.Mapping
 {

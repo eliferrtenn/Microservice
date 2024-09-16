@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
-using MultiShop.Catalog.Services.Dtos.ReqDtos.CategoryReqDtos;
+using MultiShop.Catalog.Dtos.ReqDtos.CategoryReqDtos;
 using MultiShop.Catalog.Services.Interfaces;
 
 namespace MultiShop.Catalog.Controllers

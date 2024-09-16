@@ -1,7 +1,7 @@
-﻿using MultiShop.Catalog.Entities;
+﻿using MultiShop.Catalog.Dtos.ReqDtos.ProductDetailReqDtos;
+using MultiShop.Catalog.Dtos.ResDtos.ProductDetailResDtos;
+using MultiShop.Catalog.Entities;
 using MultiShop.Catalog.ServiceResponse;
-using MultiShop.Catalog.Services.Dtos.ReqDtos.ProductDetailReqDtos;
-using MultiShop.Catalog.Services.Dtos.ResDtos.ProductDetailResDtos;
 
 namespace MultiShop.Catalog.Services.Interfaces
 {
