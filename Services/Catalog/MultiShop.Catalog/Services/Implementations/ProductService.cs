@@ -4,7 +4,6 @@ using MultiShop.Catalog.Dtos.ReqDtos.ProductReqDtos;
 using MultiShop.Catalog.Dtos.ResDtos.ProductResDtos;
 using MultiShop.Catalog.Entities;
 using MultiShop.Catalog.ServiceResponse;
-using MultiShop.Catalog.Services.Dtos.ResDtos.CategoryResDtos;
 using MultiShop.Catalog.Services.Interfaces;
 using MultiShop.Catalog.Settings;
 
@@ -81,7 +80,7 @@ namespace MultiShop.Catalog.Services.Implementations
 
             return result;
         }
-  
+
 
         public async Task<ServiceResponse<GetProductResDto>> GetProductAsync(string id)
         {

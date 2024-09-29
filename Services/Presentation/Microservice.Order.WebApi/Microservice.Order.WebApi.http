@@ -1,0 +1,6 @@
+@Microservice.Order.WebApi_HostAddress = http://localhost:5072
+
+GET {{Microservice.Order.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
